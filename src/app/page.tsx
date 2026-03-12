@@ -92,11 +92,11 @@ export default function HomePage() {
               imageAlt: "Professional doctor at Good Health Clinic",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/team-doctors-standing-corridor_107420-84841.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/team-doctors-standing-corridor_107420-84841.jpg?_wi=1",
               imageAlt: "Medical team at Good Health Clinic",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/diverse-medical-staff-working-reception-counter-filling-checkup-report-papers-making-appointments-nurse-receptionist-doing-registration-work-hospital-waiting-room_482257-51640.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/diverse-medical-staff-working-reception-counter-filling-checkup-report-papers-making-appointments-nurse-receptionist-doing-registration-work-hospital-waiting-room_482257-51640.jpg?_wi=1",
               imageAlt: "Modern clinic interior",
             },
           ]}
@@ -111,7 +111,7 @@ export default function HomePage() {
           title="About Good Health Clinic"
           description="Good Health Clinic provides quality healthcare and personalized treatment for patients. We focus on accurate diagnosis and patient-friendly treatment for thyroid disorders, stomach infections and other medical conditions. Our clinic believes in genuine diagnosis, affordable treatment, experienced doctors, and patient care and comfort."
           tag="Our Mission"
-          imageSrc="http://img.b2bpic.net/free-photo/team-doctors-standing-corridor_107420-84841.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/team-doctors-standing-corridor_107420-84841.jpg?_wi=2"
           imageAlt="Good Health Clinic medical team"
           buttons={[
             {
@@ -136,28 +136,28 @@ export default function HomePage() {
               id: 1,
               title: "Thyroid Treatment",
               description: "Diagnosis and treatment for thyroid disorders including hormone imbalance and thyroid gland problems. Early consultation helps proper treatment planning.",
-              imageSrc: "http://img.b2bpic.net/free-photo/doctor-otologist-examining-ear-infection-patient-with-otoscope-covid-19-pandemic-health-specialist-using-otology-instrument-consultation-checkup-visit-appointment_482257-45644.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/doctor-otologist-examining-ear-infection-patient-with-otoscope-covid-19-pandemic-health-specialist-using-otology-instrument-consultation-checkup-visit-appointment_482257-45644.jpg?_wi=1",
               imageAlt: "Thyroid treatment and diagnosis",
             },
             {
               id: 2,
               title: "Stomach Infection Treatment",
               description: "Treatment for gastric infection, acidity, digestive issues and food poisoning with expert care and modern diagnostic techniques.",
-              imageSrc: "http://img.b2bpic.net/free-photo/doctor-sitting-sofa-holding-patient-hand_23-2148352067.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/doctor-sitting-sofa-holding-patient-hand_23-2148352067.jpg?_wi=1",
               imageAlt: "Stomach infection treatment",
             },
             {
               id: 3,
               title: "General Health Consultation",
               description: "Comprehensive treatment for fever, weakness, body pain, and infection treatment with professional medical guidance.",
-              imageSrc: "http://img.b2bpic.net/free-photo/senior-medic-sick-patient-attending-health-checkup-visit-cabinet-receiving-prescription-paper-buy-treatment-medication-after-appointment-disease-report-consultation_482257-46469.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/senior-medic-sick-patient-attending-health-checkup-visit-cabinet-receiving-prescription-paper-buy-treatment-medication-after-appointment-disease-report-consultation_482257-46469.jpg?_wi=1",
               imageAlt: "General health consultation",
             },
             {
               id: 4,
               title: "Medical Tests & Diagnosis",
               description: "Advanced blood tests, thyroid tests, and complete health checkups using modern diagnostic equipment.",
-              imageSrc: "http://img.b2bpic.net/free-photo/doctor-nurse-examining-x-ray_107420-64799.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/doctor-nurse-examining-x-ray_107420-64799.jpg?_wi=1",
               imageAlt: "Medical diagnostic equipment",
             },
           ]}
@@ -304,7 +304,7 @@ export default function HomePage() {
       {/* Footer Section */}
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg?_wi=1"
           imageAlt="Good Health Clinic Footer"
           logoText="Good Health Clinic"
           copyrightText="© 2025 Good Health Clinic. All rights reserved."
