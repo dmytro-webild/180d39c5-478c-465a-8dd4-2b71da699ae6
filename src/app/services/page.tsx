@@ -71,28 +71,28 @@ export default function ServicesPage() {
               id: 1,
               title: "Thyroid Treatment",
               description: "Diagnosis and treatment for thyroid disorders including hormone imbalance and thyroid gland problems. Early consultation helps proper treatment planning.",
-              imageSrc: "http://img.b2bpic.net/free-photo/doctor-otologist-examining-ear-infection-patient-with-otoscope-covid-19-pandemic-health-specialist-using-otology-instrument-consultation-checkup-visit-appointment_482257-45644.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/doctor-otologist-examining-ear-infection-patient-with-otoscope-covid-19-pandemic-health-specialist-using-otology-instrument-consultation-checkup-visit-appointment_482257-45644.jpg?_wi=2",
               imageAlt: "Thyroid treatment and diagnosis",
             },
             {
               id: 2,
               title: "Stomach Infection Treatment",
               description: "Treatment for gastric infection, acidity, digestive issues and food poisoning with expert care and modern diagnostic techniques.",
-              imageSrc: "http://img.b2bpic.net/free-photo/doctor-sitting-sofa-holding-patient-hand_23-2148352067.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/doctor-sitting-sofa-holding-patient-hand_23-2148352067.jpg?_wi=2",
               imageAlt: "Stomach infection treatment",
             },
             {
               id: 3,
               title: "General Health Consultation",
               description: "Comprehensive treatment for fever, weakness, body pain, and infection treatment with professional medical guidance.",
-              imageSrc: "http://img.b2bpic.net/free-photo/senior-medic-sick-patient-attending-health-checkup-visit-cabinet-receiving-prescription-paper-buy-treatment-medication-after-appointment-disease-report-consultation_482257-46469.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/senior-medic-sick-patient-attending-health-checkup-visit-cabinet-receiving-prescription-paper-buy-treatment-medication-after-appointment-disease-report-consultation_482257-46469.jpg?_wi=2",
               imageAlt: "General health consultation",
             },
             {
               id: 4,
               title: "Medical Tests & Diagnosis",
               description: "Advanced blood tests, thyroid tests, and complete health checkups using modern diagnostic equipment.",
-              imageSrc: "http://img.b2bpic.net/free-photo/doctor-nurse-examining-x-ray_107420-64799.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/doctor-nurse-examining-x-ray_107420-64799.jpg?_wi=2",
               imageAlt: "Medical diagnostic equipment",
             },
           ]}
@@ -159,7 +159,7 @@ export default function ServicesPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg?_wi=3"
           imageAlt="Good Health Clinic Footer"
           logoText="Good Health Clinic"
           copyrightText="© 2025 Good Health Clinic. All rights reserved."
