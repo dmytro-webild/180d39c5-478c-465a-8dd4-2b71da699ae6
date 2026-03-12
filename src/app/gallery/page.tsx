@@ -79,14 +79,14 @@ export default function GalleryPage() {
               id: 1,
               title: "Modern Waiting Area",
               description: "Clean, comfortable, and welcoming waiting rooms designed for patient comfort. We maintain the highest standards of hygiene and provide a calm environment for patients.",
-              imageSrc: "http://img.b2bpic.net/free-photo/diverse-medical-staff-working-reception-counter-filling-checkup-report-papers-making-appointments-nurse-receptionist-doing-registration-work-hospital-waiting-room_482257-51640.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/diverse-medical-staff-working-reception-counter-filling-checkup-report-papers-making-appointments-nurse-receptionist-doing-registration-work-hospital-waiting-room_482257-51640.jpg?_wi=2",
               imageAlt: "Modern clinic waiting area",
             },
             {
               id: 2,
               title: "Advanced Diagnostic Equipment",
               description: "State-of-the-art medical equipment for accurate diagnosis. Our facility is equipped with modern diagnostic tools including ultrasound, blood testing, and other medical instruments.",
-              imageSrc: "http://img.b2bpic.net/free-photo/doctor-nurse-examining-x-ray_107420-64799.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/doctor-nurse-examining-x-ray_107420-64799.jpg?_wi=3",
               imageAlt: "Medical diagnostic equipment",
             },
             {
@@ -125,7 +125,7 @@ export default function GalleryPage() {
       {/* Footer Section */}
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg?_wi=5"
           imageAlt="Good Health Clinic Footer"
           logoText="Good Health Clinic"
           copyrightText="© 2025 Good Health Clinic. All rights reserved."
