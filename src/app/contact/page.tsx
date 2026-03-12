@@ -72,7 +72,7 @@ export default function ContactPage() {
           title="Get In Touch With Us"
           description="We're here to help you with any questions or concerns. Reach out to Good Health Clinic through any of our convenient contact methods and our friendly staff will assist you promptly."
           tag="Contact Information"
-          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg?_wi=6"
           imageAlt="Contact Good Health Clinic"
           buttons={[
             {
@@ -109,7 +109,7 @@ export default function ContactPage() {
       {/* Footer Section */}
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg?_wi=7"
           imageAlt="Good Health Clinic Footer"
           logoText="Good Health Clinic"
           copyrightText="© 2025 Good Health Clinic. All rights reserved."

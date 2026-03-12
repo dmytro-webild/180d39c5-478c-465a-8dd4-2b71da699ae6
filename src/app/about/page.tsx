@@ -69,7 +69,7 @@ export default function AboutPage() {
           title="Our Commitment to Your Health"
           description="At Good Health Clinic, we are dedicated to providing comprehensive, compassionate, and professional healthcare services. With years of expertise in thyroid disorders, gastrointestinal conditions, and general health management, our team of experienced doctors is committed to your well-being. We believe in combining accurate diagnosis with affordable, patient-centered treatment to ensure every patient receives the care they deserve."
           tag="About Us"
-          imageSrc="http://img.b2bpic.net/free-photo/team-doctors-standing-corridor_107420-84841.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/team-doctors-standing-corridor_107420-84841.jpg?_wi=3"
           imageAlt="Good Health Clinic medical team"
           buttons={[{ text: "Our Services", href: "/services" }]}
           useInvertedBackground={false}
@@ -123,7 +123,7 @@ export default function AboutPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/composition-with-doctor-s-accesories_23-2147652320.jpg?_wi=2"
           imageAlt="Good Health Clinic Footer"
           logoText="Good Health Clinic"
           copyrightText="© 2025 Good Health Clinic. All rights reserved."
